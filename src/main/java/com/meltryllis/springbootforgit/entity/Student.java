@@ -8,4 +8,5 @@ public class Student {
     String name;
     String sex;
     String age;
+    String addr;
 }
